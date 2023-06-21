@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Kevin Plas - My Web Presence</title>
+</head>
+<style>
+body {
+    background-color: #fddbba;
+    margin: 0 10%;
+    font-family: sans-serif;
+    }
+h1 {
+    color:crimson;
+    text-align: center;
+    font-family: serif;
+    font-weight: normal;
+    text-transform: uppercase;
+    border-bottom: 1px solid #e46d0c;
+    margin-top: 30px;
+}
+h2 {
+    color: #e46d0c;
+    font-size: lem;
+}
+</style>
+
+<body>
+<h1> Kevin Plas - Resume</h1>
+
+<p>Hello, my name is <strong>Kevin Plas</strong> and I wish to become either a <strong>Graphic Designer</strong> or a <strong>UX/UI Designer</strong> although I'm still undecided. 
+As I take more classes related to those subjects in <a href="https://www.seminolestate.edu/" target="_blank">Seminole State College</a>, I hope to decide on what path I choose to take.
+There is still a lack of experience under my belt, but once I collect enough information from what I'm currently learning, I can start applying it to expand my portfolio.
+Any experience I can obtain at this time would be essential for me to start my path towards a career in this field.
+Once gathered, I can practice honing in on my craft and create an artistic identity.
+This page is meant to list my pre-existing knowledge and expected future in the realm of design.</p>
+
+<h2>Skills</h2>
+<ul>
+<li>Product Marketing</li>
+<li>Web Development</li>
+<li>Adverstisement Design</li>
+<li>Graphic Design</li>
+<li>3D Modeling</li>
+<li>Animation</li>
+<li>Video Editing</li>
+<li>JavaScript</li>
+<li>Storyboard Artist</li>
+<li>Audio Engineer</li>
+</ul>
+
+<h2>Software/Hardware</h2>
+<ul>
+<li>Photoshop</li>
+<li>Illustrator</li>
+<li>InDesign</li>
+<li>Powerpoint</li>
+<li>Maya</li>
+<li>Eclipse IDE</li>
+<li>Virtual Studio Code</li>
+<li>Adobe Premiere Pro</li>
+<li>Audacity</li>
+</ul>
+
+<h2>Work Samples</h2>
+<p>
+<picture>
+<img src="Images/pexels-cesar-perez-733745.jpg" width="300" height="200"></a>
+</picture><br>
+<small>Stock image used solely as placeholder</small>
+<p>
+<picture>
+<img src="Images/pexels-heiner-205001.jpg" width="300" height="200"></a>
+</picture><br>
+<small>Stock image used solely as placeholder</small>
+<p>
+<picture>
+<img src="Images/pexels-m-e-r-v-e-16765277.jpg" width="300" height="200"></a>
+</picture><br>
+<small>Stock image used solely as placeholder</small>
+<p>
+<picture>
+<img src="Images/pexels-pixabay-147411.jpg" width="300" height="200"></a>
+</picture><br>
+<small>Stock image used solely as placeholder</small>
+<p>
+<picture>
+<img src="Images/pexels-taras-makarenko-593172.jpg" width="300" height="200"></a>
+</picture><br>
+<small>Stock image used solely as placeholder</small>
+
+</body>
+</html>
